@@ -1,0 +1,7 @@
+[build]
+builder = "npm"
+buildCommand = "npm install"
+
+[run]
+command = "npm start"
+port = 3000
